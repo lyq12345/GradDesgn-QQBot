@@ -1,7 +1,5 @@
 # Fourm-QQbot
 
-## How to start
+## 使用说明
 
-1. generate project using `nb create` .
-2. writing your plugins under `src/plugins` folder.
-3. run your bot using `nb run` .
+https://docs.qq.com/doc/DTVFod0dXbk5iWkh5
